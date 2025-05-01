@@ -6,11 +6,13 @@ public class ClaseHeroe {
 
     public void addHeroe (String Heroe){
         Heroes.add(Heroe);
+
     }
 
-    public String getNextHeroes(){
+    public String getNextHeroe  (){
         return Heroes.poll();
     }
+    public String
 
     public boolean hasHeroe(){
         return !Heroes.isEmpty();
