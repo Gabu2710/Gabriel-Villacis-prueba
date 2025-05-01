@@ -11,7 +11,5 @@ public class Heroe {
         Habilidad = habilidad;
     }
 
-    public String nombre(String nombre){
 
-    }
 }
